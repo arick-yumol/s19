@@ -142,7 +142,7 @@ const vowels = ['a', 'e', 'i', 'o', 'u'];
 // const a = vowels[0];
 // const e = vowels[1];
 
-const [a, e, i, o, u] = vowels;	//array destructure
+const [a, e, i, o, u] = vowels;	//array destructure. Proper way because it descriptive.
 
 console.log(a);
 console.log(e);
